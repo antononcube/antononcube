@@ -5,14 +5,14 @@
 - 🤔 I’m looking for help with unit testing of data wrangling workflows.
 
 - 💬 Ask me about:
-   - [Conversation agents](https://github.com/antononcube/ConversationalAgents)
+   - [Conversational agents](https://github.com/antononcube/ConversationalAgents)
    - [Data science](https://github.com/antononcube/HowToBeADataScientistImpostor-book)
    - [Epidemics modeling](https://github.com/antononcube/SystemModeling/tree/master/Projects/Coronavirus-propagation-dynamics)
    - [Mathematica vs R](https://github.com/antononcube/MathematicaVsR)
    - [Numerical integration](https://github.com/antononcube/NIntegrateTheMissingManual-book)
    - [Quantile regression](https://github.com/antononcube/QRMon-R)
 
-- 🌱 I’m currently learning [Raku](https://raku.org).
+- 🌱 I’m currently learning more about [Human papillomavirus](https://en.wikipedia.org/wiki/Human_papillomavirus_infection).
 
 Here is a visual summary of my GitHub activities by [sourcerer.io](https://sourcerer.io):
 
