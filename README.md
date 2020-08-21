@@ -4,12 +4,12 @@
 
 - 🌱 I’m currently learning [Raku](raku.org).
 
-- 💬 Ask me about numerical integration, data science, parsers.
+- 💬 Ask me about epidemics modeling, system dynamics, numerical integration, quantile regression, data science, parsers.
 
 
 Here is a visual summary by [sourcerer.io](https://sourcerer.io/antononcube):
 
-<a href="https://sourcerer.io/antononcube"><img src="https://img.shields.io/badge/Mathematica-2386%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/antononcube"><img src="https://sourcerer.io/icons/logo-sharing.svg"height="48px" alt="Sourcerer"></a>
 
 <!--
 **antononcube/antononcube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,4 +24,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<a href="https://sourcerer.io/antononcube"><img src="https://img.shields.io/badge/Mathematica-2386%20commits-orange.svg" alt=""></a>
+
 -->
