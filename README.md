@@ -9,7 +9,7 @@
 
 Here is a visual summary by [sourcerer.io](https://sourcerer.io/antononcube):
 
-<a href="https://sourcerer.io/antononcube"><img src="https://sourcerer.io/icons/logo-sharing.svg"height="48px" alt="Sourcerer"></a>
+<a href="https://sourcerer.io/antononcube"><img src="https://sourcerer.io/icons/logo-sharing.svg" height="48px" alt="Sourcerer"></a>
 
 <!--
 **antononcube/antononcube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
