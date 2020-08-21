@@ -1,4 +1,12 @@
-### Hi there 👋
+# Anton Antonov at GitHub
+
+- 🔭 I’m currently working on a multi-language conversation agent for data wrangling.
+
+- 🌱 I’m currently learning [Raku](raku.org).
+
+Here is a visual summary:
+
+<a href="https://sourcerer.io/antononcube"><img src="https://sourcerer.io/icons/logo-sharing.svg"height="48px" alt="Sourcerer"></a>
 
 <!--
 **antononcube/antononcube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
