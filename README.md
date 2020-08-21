@@ -9,7 +9,7 @@
 
 Here is a visual summary by [sourcerer.io](https://sourcerer.io/antononcube):
 
-<a href="https://sourcerer.io/antononcube"><img src="https://avatars1.githubusercontent.com/u/4943081?v=4" height="50px" width="50px" alt=""/></a>
+<a href="https://sourcerer.io/antononcube"><img src="https://img.shields.io/badge/Mathematica-2386%20commits-orange.svg" alt=""></a>
 
 <!--
 **antononcube/antononcube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
