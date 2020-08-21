@@ -16,7 +16,7 @@
 
 Here is a visual summary of my GitHub activities by [sourcerer.io](https://sourcerer.io):
 
-![sourcerer.io.antononcube](./Diagrams/antononcube-at-sourcerer-io.png)
+[![sourcerer.io.antononcube](https://github.com/antononcube/antononcube/raw/master/Diagrams/antononcube-at-sourcerer-io.png)](https://sourcerer.io/antononcube)
 
 ## Links
 
