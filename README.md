@@ -1,4 +1,4 @@
-# Anton Antonov at GitHub
+# Anton Antonov's repositories at GitHub
 
 - 🔭 I’m currently working on a [multi-language conversational agent for data wrangling](https://github.com/antononcube/Raku-DSL-English-DataQueryWorkflows).
 
@@ -16,7 +16,7 @@
 
 Here is a visual summary of my GitHub activities by [sourcerer.io](https://sourcerer.io):
 
-[![sourcerer.io.antononcube](https://github.com/antononcube/antononcube/raw/master/Diagrams/antononcube-at-sourcerer-io-wide-small.png)](https://sourcerer.io/antononcube)
+[![sourcerer.io.antononcube](https://github.com/antononcube/antononcube/raw/master/Diagrams/antononcube-at-sourcerer-io-wide-small.png)][]
 
 ## Links
 
@@ -30,7 +30,19 @@ Here is a visual summary of my GitHub activities by [sourcerer.io](https://sourc
 | Wolfram Function Repository | [https://resources.wolframcloud.com/FunctionRepository/search/?i=Anton+Antonov](https://resources.wolframcloud.com/FunctionRepository/search/?i=Anton+Antonov)
 | WordPress Blog | [https://mathematicaforprediction.wordpress.com](https://mathematicaforprediction.wordpress.com) |
 
-<!--
+## Books
+
+
+| Title         | Repository   | Progress |
+|--------------:|:-------------|----------|
+| Combinatorial Optimization with Wolfram Language | [CombinatorialOptimizationWithWL-book](https://github.com/antononcube/CombinatorialOptimizationWithWL-book) | 30% |
+| How to be a data scientist impostor? | [HowToBeADataScientistImpostor-book](https://github.com/antononcube/HowToBeADataScientistImpostor-book) | 40% |
+| NIntegrate - The Missing Manual | [NIntegrateTheMissingManual-book](https://github.com/antononcube/NIntegrateTheMissingManual-book) | 60% |
+| Simplified Machine Learning Workflows | [SimplifiedMachineLearningWorkflows-book](https://github.com/antononcube/SimplifiedMachineLearningWorkflows-book) | 60% |
+| Software Design Methods with Wolfram Language | [SoftwareDesignMethodsWithWL-book](https://github.com/antononcube/SoftwareDesignMethodsWithWL-book) | 80% |
+
+
+<!---
 **antononcube/antononcube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
