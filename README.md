@@ -22,13 +22,13 @@ Here is a visual summary of my GitHub activities by [sourcerer.io](https://sourc
 
 |                  |                                                              |
 | ---------------: | ------------------------------------------------------------ |
-| WordPress Blog | [https://mathematicaforprediction.wordpress.com](https://mathematicaforprediction.wordpress.com) |
 | GitHub repositories | [https://github.com/antononcube](https://github.com/antononcube/) |
-| Sourcerer.io profile | [https://sourcerer.io/antononcube](https://sourcerer.io/antononcube) |
-| Mathematica StackExchange profile | [https://mathematica.stackexchange.com/users/34008/anton-antonov](https://mathematica.stackexchange.com/users/34008/anton-antonov) |
-| Wolfram Community profile | [https://community.wolfram.com/web/antononcube](https://community.wolfram.com/web/antononcube) |
 | LinkedIn profile | [https://www.linkedin.com/in/anton-antonov-89a8797](https://www.linkedin.com/in/anton-antonov-89a8797) |
-
+| Mathematica StackExchange profile | [https://mathematica.stackexchange.com/users/34008/anton-antonov](https://mathematica.stackexchange.com/users/34008/anton-antonov) |
+| Sourcerer.io profile | [https://sourcerer.io/antononcube](https://sourcerer.io/antononcube) |
+| Wolfram Community profile | [https://community.wolfram.com/web/antononcube](https://community.wolfram.com/web/antononcube) |
+| Wolfram Function Repository | [https://resources.wolframcloud.com/FunctionRepository/search/?i=Anton+Antonov](https://resources.wolframcloud.com/FunctionRepository/search/?i=Anton+Antonov)
+| WordPress Blog | [https://mathematicaforprediction.wordpress.com](https://mathematicaforprediction.wordpress.com) |
 
 <!--
 **antononcube/antononcube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
