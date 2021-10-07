@@ -14,9 +14,12 @@
 
 - 🌱 I’m currently learning more about [Human papillomavirus](https://en.wikipedia.org/wiki/Human_papillomavirus_infection).
 
+<!-- If you're using "master" as default branch -->
+![Metrics](https://github.com/antononcube/antononcube/blob/master/github-metrics.svg)
+
 Here is a visual summary of my GitHub activities by [sourcerer.io](https://sourcerer.io) (now defunct):
 
-[![sourcerer.io.antononcube](https://github.com/antononcube/antononcube/raw/master/Diagrams/antononcube-at-sourcerer-io-wide-small.png)]
+[![sourcerer.io.antononcube](https://github.com/antononcube/antononcube/raw/master/Diagrams/antononcube-at-sourcerer-io-wide-small.png)](https://github.com/antononcube/antononcube/raw/master/Diagrams/antononcube-at-sourcerer-io-wide.png)
 
 ## Links
 
