@@ -16,6 +16,8 @@
 
 <!-- If you're using "master" as default branch -->
 ![Metrics](https://github.com/antononcube/antononcube/blob/master/github-metrics.svg)
+<!-- If you're using the "columns" display mode -->
+<img src="https://github.com/antononcube/antononcube/blob/master/github-metrics.svg" alt="Metrics" width="100%">
 
 Here is a visual summary of my GitHub activities by [sourcerer.io](https://sourcerer.io) (now defunct):
 
