@@ -6,7 +6,7 @@
 ------ 
 
 - 🔭 I’m currently working on a [multi-language conversational agent for data acquisition](https://github.com/antononcube/Raku-DSL-English-DataAcquisitionWorkflows).
-- 
+
 - 🤔 I’m looking for help with unit testing of data wrangling workflows.
 
 - 🌱 I’m currently learning more about [Raku](https://raku.org).
