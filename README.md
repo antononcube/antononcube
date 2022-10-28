@@ -1,5 +1,7 @@
 # Anton Antonov's repositories at GitHub
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/antonov70)
+
 <!-- If you're using "master" as default branch -->
 ![Metrics](https://github.com/antononcube/antononcube/blob/master/github-metrics.svg)
 
